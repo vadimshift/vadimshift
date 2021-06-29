@@ -1,15 +1,15 @@
-Всем привет! Меня зовут Вадим :raising_hand_man:
+# Всем привет! Меня зовут Вадим :raising_hand_man:
 
 :small_blue_diamond: Начинаю свой путь в мире web-разработки
 
 :small_blue_diamond: Пережил падение Челябинского метеорита
 
-Моя статистика:
+## Моя статистика:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimshift&langs_count=8)](https://github.com/vadimshift/github-readme-stats)
 
 
-:mailbox: Мои контакты:
+## :mailbox: Мои контакты:
 
 :small_orange_diamond: Email: vadimshift@gmail.com
 
