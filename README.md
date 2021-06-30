@@ -1,7 +1,7 @@
 # Всем привет! Меня зовут Вадим :raising_hand_man:
 
 :small_blue_diamond: Начинаю свой путь в мире web-разработки
-
+:small_blue_diamond: Хочу продолжать усовершенствовать свои навыки в React и Express
 :small_blue_diamond: Пережил падение Челябинского метеорита
 
 ## Моя статистика:
@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimshift&langs_count=8)](https://github.com/vadimshift/github-readme-stats)
 
 ## Мой стэк: 
-HTML, CSS, React.js, Express.js, MongoDB,
+HTML, CSS, React, Express, MongoDB,
 
 
 ## :mailbox: Мои контакты:
