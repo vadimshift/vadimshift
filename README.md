@@ -2,7 +2,7 @@
 
 :small_blue_diamond: Начинаю свой путь в мире web-разработки
 
-:small_blue_diamond: Хочу продолжать усовершенствовать свои навыки в React и Express
+:small_blue_diamond: Хочу продолжать усовершенствовать свои навыки в React.js и Express.js
 
 :small_blue_diamond: Пережил падение Челябинского метеорита
 
