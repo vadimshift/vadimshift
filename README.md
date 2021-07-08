@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimshift&langs_count=8)](https://github.com/vadimshift/github-readme-stats)
 
 ## Мой стэк: 
-HTML, CSS, React, Express, MongoDB,
+HTML, CSS, React.js, Node.js, MongoDB
 
 
 ## :mailbox: Мои контакты:
